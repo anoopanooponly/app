@@ -41,8 +41,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 								"/**/*.map",
 								"/**/*.json",
 								"/**/*.png",
-								"/**/*.gif",
-								"/**/me/**"
+								"/**/*.gif"
 								);
 		
 		
