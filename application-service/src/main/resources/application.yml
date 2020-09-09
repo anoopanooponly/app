@@ -1,0 +1,8 @@
+server:
+  port: 9091
+  servlet:
+    context-path: /api
+app:
+  provider:
+    jwk:
+      url: http://localhost:8080/auth/realms/demo/protocol/openid-connect/certs
